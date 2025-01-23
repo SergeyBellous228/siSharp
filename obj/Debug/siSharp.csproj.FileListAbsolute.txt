@@ -1,0 +1,8 @@
+D:\Пользователи\Visual Studio 2022\siSharp\bin\Debug\siSharp.exe.config
+D:\Пользователи\Visual Studio 2022\siSharp\bin\Debug\siSharp.exe
+D:\Пользователи\Visual Studio 2022\siSharp\bin\Debug\siSharp.pdb
+D:\Пользователи\Visual Studio 2022\siSharp\obj\Debug\siSharp.csproj.AssemblyReference.cache
+D:\Пользователи\Visual Studio 2022\siSharp\obj\Debug\siSharp.csproj.SuggestedBindingRedirects.cache
+D:\Пользователи\Visual Studio 2022\siSharp\obj\Debug\siSharp.csproj.CoreCompileInputs.cache
+D:\Пользователи\Visual Studio 2022\siSharp\obj\Debug\siSharp.exe
+D:\Пользователи\Visual Studio 2022\siSharp\obj\Debug\siSharp.pdb
